@@ -2,7 +2,7 @@
 
 How To Understand & Approach A Recursion Problem :- 
 
-      1 - Identify if you can break down problem into smaller problems.
+      1 - Identify if you can break down the problem into smaller problems.
       2 - Write the Recurrence Relation if needed.
       3 - Draw the Recursive tree.
       4 - About The Tree :- 
