@@ -15,3 +15,10 @@ How To Understand & Approach A Recursion Problem :-
       5 - See how the values and what type of values are returned at each step.
       6 - See Where the function call will come out.
       7 - In the end, You will come out of the main function.
+
+1 - Easy Level Questions.
+
+2 - Array Questions
+
+3 - String Questions
+
